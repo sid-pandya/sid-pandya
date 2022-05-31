@@ -18,6 +18,7 @@
 - 👯 I’m looking to collaborate on ...fun weekend, hiking
 - 🤔 I’m looking for help with ...capstone Project
 - 👨🏼 Pronouns: ... he/him/his. 
+- ✍️ Go to my [Resume](https://github.com/sid-pandya/sid-pandya/blob/main/Sidhdharth_Resume.pdf)
 
 
 <h2 id="Stats">Stats📈</h2>
