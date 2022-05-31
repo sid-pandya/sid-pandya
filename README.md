@@ -1,5 +1,4 @@
 <!-- [![Header](https://github.com/sid-pandya/sid-pandya/blob/main/github-header-image.png "Header")](https://some-url.dev/) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid-pandya&theme=vue)"/> 
 
 
 
@@ -87,7 +86,6 @@
     <a href="https://medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-------------
 <h2> Lame Corner 😜<h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
