@@ -1,4 +1,8 @@
 <!-- [![Header](https://github.com/sid-pandya/sid-pandya/blob/main/github-header-image.png "Header")](https://some-url.dev/) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid-pandya&theme=vue)"/> 
+
+
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste%20%F0%9F%99%8F%3BHello%20%F0%9F%99%8F%3BKem%20Chho%20%F0%9F%99%8F%3BHola%20%F0%9F%99%8F%3B">
 <br>
@@ -17,23 +21,7 @@
 - 👨🏼 Pronouns: ... he/him/his. 
 
 
-
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://github.com/sid-pandya/sid-pandya/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/sidhdharth19
-[2]: https://www.linkedin.com/in/sidhdharth-pandya/
-
-
-
-## Stats📈
+<h2 id="Stats">Stats📈</h2>
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid-pandya&show_icons=true&theme=codeSTACKr&show_icons=true&layout=compact&langs_count=8" alt="sid-pandya" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sid-pandya&show_icons=true&theme=codeSTACKr&locale=en&hide_border=true" alt="sid-pandya" />
@@ -46,7 +34,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 <!-- stats
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-pandya&theme=dark&hide_border=true" alt="sid-pandya" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sid-pandya&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=sid-pandya](https://github-profile-trophy.vercel.app/?username=sid-pandya&theme=dark)](https://git.io/streak-stats)
 
 
 [![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid-pandya&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -71,30 +59,27 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
     
 <h2 id="skills">My Skills ✍️</h2>
 <p>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /> </a>
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40" /> </a>
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" /> </a>      
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+</a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40" /> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40" /> </a>
-
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40" /> </a>
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" /> </a>
-
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40" /> </a>
-   
-    
-    
+<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40" /> </a>     
 </p>
 </div>
 
-<h3>Where to find me</h3>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-pandya&theme=dark&hide_border=true&" alt="sid-pandya" />
+
+<h2 id="Social_Media">Where to find me 🙋🏻‍♂️</h2>
 <p>
     <a href="https://github.com/sid-pandya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
     <a href="https://twitter.com/sidhdharth19" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
@@ -103,5 +88,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 </p>
 
 ------------
-
+<h2> Lame Corner 😜<h2>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
