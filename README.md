@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste%20%F0%9F%99%8F%3BHello%20%F0%9F%99%8F%3BKem%20Chho%20%F0%9F%99%8F%3BHola%20%F0%9F%99%8F%3B">
+<img src="https://readme-typing-svg.herokuapp.com?color=F05138&size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste%20%F0%9F%99%8F%3BHello%20%F0%9F%99%8F%3BKem%20Chho%20%F0%9F%99%8F%3BHola%20%F0%9F%99%8F%3B">
 <br>
 <img src="https://views.whatilearened.today/views/github/sid-pandya/sid-pandya.svg?cache=remove">
 <br>
