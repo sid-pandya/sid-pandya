@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Header](https://github.com/sid-pandya/sid-pandya/blob/main/Header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/sid-pandya/sid-pandya/blob/main/github-header-image.png "Header")](https://some-url.dev/)
 
 <!--
 **sid-pandya/sid-pandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
