@@ -9,7 +9,7 @@
 <br>
 </div>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Myself+Sidhdharth+Pandya)](https://git.io/typing-svg) 
 
 - 🧑🏼‍🎓 I'm a student at California State University, East Bay and will be graduating in December 2022.
